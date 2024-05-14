@@ -1,4 +1,3 @@
-# Rolling - 롤링페이퍼
 <img width="1920" alt="cover" src="https://github.com/1Cheol-and-4-team/Rolling/assets/77719310/3ab8e1b7-407e-4d98-9cb2-1be94a51a8e3">
 
 <div align="center">
@@ -7,8 +6,11 @@
   
 </div>
 
-## 📑 프로젝트 설명
-가족, 친구들과 함께 공유할 수 있는 롤링 페이퍼 웹서비스 입니다.
+# <img width="26" alt="favicon" src="https://github.com/1Cheol-and-4-team/Rolling/assets/77719310/5a871702-ba8f-4994-8855-e059246a39ec"> Rolling
+- 롤링 페이퍼를 작성하고 가족과 친구들에게 공유할 수 있습니다.
+- 다양한 리액션을 활용하여 롤링 페이퍼에 감정을 더욱 풍부하게 표현할 수 있습니다.
+
+<br />
 
 ## 🖥️ 프로젝트 실행 방법
 ```bash
@@ -24,9 +26,12 @@ npm install
 # dev server
 npm run dev
 ```
+<br />
 
 ## 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"> <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/REACT QUILL-0088CC?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+
+<br />
 
 ## ✨ 담당 기능
 ### 롤링 페이퍼 상세페이지
@@ -37,6 +42,8 @@ npm run dev
 ### 리액션
 - 리액션 추가
 - 리액션 조회
+
+<br />
 
 ## 👩‍💻팀 소개
 <table>
